@@ -1,11 +1,15 @@
 ## pb
-Create paste on pastebin.com from terminal.app
+CLI PAstebin.com client
 ### Instalation
+Brew (soon):
 
-- cd /path/to/pb
-- sudo ./install.sh
-- type root password
-- login to pastebin.com in teminal and paste dev_key from [here](http://pastebin.com/api) (account required)
+`brew install pb`
+
+Manual:
+
+`cd /path/to/pb`
+
+`install -c pb ${PREFIX:-/usr/local}/bin`
 
 ### Usage
 
