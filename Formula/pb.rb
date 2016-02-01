@@ -2,7 +2,7 @@ class Pb < Formula
   desc "CLI Pastebin.com client"
   homepage "https://github.com/0xCD/pb"
   url "https://github.com/0xCD/pb/archive/1.0.0.tar.gz"
-  sha256 "ac56d55319b1d981f5b43ab76867af0d1c7d53643f690a60adda288b53125414"
+  sha256 "934d90618949a141086cac8422e9618896c369ada9b97dcddbe9a3d7c4ba9178"
   head "https://github.com/0xCD/pb"
 
   bottle :unneeded
