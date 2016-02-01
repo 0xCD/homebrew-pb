@@ -1,9 +1,11 @@
 ## pb
-CLI PAstebin.com client
+CLI Pastebin.com client
 ### Instalation
-Brew (soon):
+With Brew:
 
-`brew install pb`
+`$ brew tap 0xCD/pb`
+
+`$ brew install pb`
 
 Manual:
 
@@ -16,9 +18,9 @@ Manual:
 - `echo "wow such pb" | pb`
 - `cat myscript.py | pb | pbcopy` (`pbcopy` to copy link to clipboard)
 - `pb -h`
-USAGE: 
 
 USAGE: 
+
 
  -g — create paste as guest
  
