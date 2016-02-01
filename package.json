@@ -1,0 +1,27 @@
+{
+  "name": "pb",
+  "version": "1.0.0",
+  "description": "CLI Pastebin client",
+  "preferGlobal": true,
+  "global": true,
+  "install": "install -c pb ${PREFIX:-/usr/local}/bin",
+  "bin": {
+    "pb": "pb"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/0xCD/pb"
+  },
+  "keywords": [
+    "pb",
+    "pastebin",
+    "client",
+    "cli"
+  ],
+  "author": "0xCD",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/0xCD/pb/issues"
+  },
+  "homepage": "https://github.com/0xCD/pb"
+}
